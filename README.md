@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="João Palagio" />
+  <img src="https://raw.githubusercontent.com/palagio/palagio/master/name.svg" alt="João Palagio" />
 </h1>
 
 ### Hi there 👋
