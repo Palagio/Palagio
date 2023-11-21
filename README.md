@@ -8,7 +8,7 @@
 
 
 ## Hey! 👋
-I'm João, a 23 years old dev Dart/Flutter from Brazil.
+I'm João, a 23 years old dev web and mobile, using react and flutter, from Brazil.
 
 
 ## Skills
