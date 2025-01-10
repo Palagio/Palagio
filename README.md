@@ -8,7 +8,7 @@
 
 
 ## Hey! 👋
-I'm João, a 23 years old dev web and mobile, using react and flutter, from Brazil.
+I'm João, a 25 years old dev web and mobile, using react and flutter, from Brazil.
 
 
 ## Skills
@@ -16,6 +16,8 @@ I'm João, a 23 years old dev web and mobile, using react and flutter, from Braz
 - 👨‍💻 JS/TS
 - ⚙️ Flutter
 - ⚙️ React/NextJS
+- ⚙️ NodeJS/NestJS
+- ⚙️ Devops
 
 ## Contact
 - [@JoaoPalagio](https://twitter.com/joaopalagio) on Twitter
